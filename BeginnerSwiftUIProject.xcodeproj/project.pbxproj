@@ -22,6 +22,10 @@
 		52E0B5C02986AEFD0084CB2E /* StacksBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E0B5BF2986AEFC0084CB2E /* StacksBootcamp.swift */; };
 		52E0B5C22986E9D70084CB2E /* StacksBootcampRWE1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E0B5C12986E9D70084CB2E /* StacksBootcampRWE1.swift */; };
 		52E0B5C42986EA8D0084CB2E /* StacksBootcampRWE2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 52E0B5C32986EA8D0084CB2E /* StacksBootcampRWE2.swift */; };
+		A19BD4B92C417BFB009FB742 /* InitializerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19BD4B82C417BFB009FB742 /* InitializerBootcamp.swift */; };
+		A19BD4BB2C417F58009FB742 /* ForEachBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19BD4BA2C417F58009FB742 /* ForEachBootcamp.swift */; };
+		A19BD4BD2C418255009FB742 /* ScrollViewBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19BD4BC2C418255009FB742 /* ScrollViewBootcamp.swift */; };
+		A19BD4BF2C419956009FB742 /* LazyVGridBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A19BD4BE2C419956009FB742 /* LazyVGridBootcamp.swift */; };
 		A1D704DD2C416B4500492DA5 /* PaddingBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D704DC2C416B4500492DA5 /* PaddingBootcamp.swift */; };
 		A1D704DF2C416FB200492DA5 /* SpacerBootcamp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D704DE2C416FB200492DA5 /* SpacerBootcamp.swift */; };
 /* End PBXBuildFile section */
@@ -43,6 +47,10 @@
 		52E0B5BF2986AEFC0084CB2E /* StacksBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcamp.swift; sourceTree = "<group>"; };
 		52E0B5C12986E9D70084CB2E /* StacksBootcampRWE1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcampRWE1.swift; sourceTree = "<group>"; };
 		52E0B5C32986EA8D0084CB2E /* StacksBootcampRWE2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StacksBootcampRWE2.swift; sourceTree = "<group>"; };
+		A19BD4B82C417BFB009FB742 /* InitializerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InitializerBootcamp.swift; sourceTree = "<group>"; };
+		A19BD4BA2C417F58009FB742 /* ForEachBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ForEachBootcamp.swift; sourceTree = "<group>"; };
+		A19BD4BC2C418255009FB742 /* ScrollViewBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ScrollViewBootcamp.swift; sourceTree = "<group>"; };
+		A19BD4BE2C419956009FB742 /* LazyVGridBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LazyVGridBootcamp.swift; sourceTree = "<group>"; };
 		A1D704DC2C416B4500492DA5 /* PaddingBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PaddingBootcamp.swift; sourceTree = "<group>"; };
 		A1D704DE2C416FB200492DA5 /* SpacerBootcamp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpacerBootcamp.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -94,6 +102,10 @@
 				52E0B5C32986EA8D0084CB2E /* StacksBootcampRWE2.swift */,
 				A1D704DC2C416B4500492DA5 /* PaddingBootcamp.swift */,
 				A1D704DE2C416FB200492DA5 /* SpacerBootcamp.swift */,
+				A19BD4B82C417BFB009FB742 /* InitializerBootcamp.swift */,
+				A19BD4BA2C417F58009FB742 /* ForEachBootcamp.swift */,
+				A19BD4BC2C418255009FB742 /* ScrollViewBootcamp.swift */,
+				A19BD4BE2C419956009FB742 /* LazyVGridBootcamp.swift */,
 			);
 			path = BeginnerSwiftUIProject;
 			sourceTree = "<group>";
@@ -186,9 +198,13 @@
 				52E0B5BC298548D70084CB2E /* FrameBootcamp.swift in Sources */,
 				52678F22297D725A00D35861 /* ShapesBootcamp.swift in Sources */,
 				52678F14297C53F100D35861 /* ContentView.swift in Sources */,
+				A19BD4BB2C417F58009FB742 /* ForEachBootcamp.swift in Sources */,
 				52678F20297D6CE400D35861 /* TextBootcamp.swift in Sources */,
+				A19BD4BD2C418255009FB742 /* ScrollViewBootcamp.swift in Sources */,
 				52678F12297C53F100D35861 /* BeginnerSwiftUIProjectApp.swift in Sources */,
 				52E0B5C02986AEFD0084CB2E /* StacksBootcamp.swift in Sources */,
+				A19BD4B92C417BFB009FB742 /* InitializerBootcamp.swift in Sources */,
+				A19BD4BF2C419956009FB742 /* LazyVGridBootcamp.swift in Sources */,
 				520C2400297DDB1E00089849 /* ImageBootcamp.swift in Sources */,
 				520C23FE297DCA7A00089849 /* IconsBootcamp.swift in Sources */,
 			);
