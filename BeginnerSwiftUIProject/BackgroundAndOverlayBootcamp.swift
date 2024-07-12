@@ -10,7 +10,7 @@ import SwiftUI
 // https://www.youtube.com/watch?v=FQdGt24LMRs&list=PLwvDm4VfkdphqETTBf-DdjCoAvhai1QpO&index=13&ab_channel=SwiftfulThinking
 struct BackgroundAndOverlayBootcamp: View {
     var body: some View {
-        Text(/*@START_MENU_TOKEN@*/"Hello, World!"/*@END_MENU_TOKEN@*/)
+        Text("Hello, World!")
             .frame(width: 150, height: 150, alignment: .center)
             .background(
                 //.red

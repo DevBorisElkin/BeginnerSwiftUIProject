@@ -19,6 +19,7 @@ struct StacksBootcampRWE2: View {
                     .font(.title)
                     .foregroundColor(.white)
             }.background(.red)
+
             Text("1")
                 .background(.purple)
                 .font(.title)
